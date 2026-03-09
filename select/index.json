@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "いつだって僕らは",
+  "base_artist": "ノクチル",
+  "createdAt": "2026-03-09T11:41:55.322720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/01_いつだって僕らは_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/02_いつだって僕らは_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "生物股长",
+      "has_synced": true,
+      "path": "select/03_いつだって僕らは_生物股长.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/04_いつだって僕らは_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/05_いつだって僕らは_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/06_いつだって僕らは_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "いつだって僕らは-instrumental-",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_いつだって僕らは-instrumental-_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "いつだって僕らは",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/08_いつだって僕らは_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "いつだって僕らは -instrumental-",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/09_いつだって僕らは_-instrumental-_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "いつだって僕らは - Itsudattebokurawa",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/10_いつだって僕らは_-_Itsudattebokurawa_Ikimonogakari.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いつだって僕らは",
+      "artist": "ノクチル",
+      "has_synced": false,
+      "path": "select/pl_01_いつだって僕らは_ノクチル.txt"
+    }
+  ]
+}
